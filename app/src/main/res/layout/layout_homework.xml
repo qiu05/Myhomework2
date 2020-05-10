@@ -12,22 +12,13 @@
     <Button
         android:layout_width="wrap_content"
         android:text="作业二"
-        android:id="@+id/homework_btn2"
+        android:onClick="hm02Activity"
         android:layout_height="wrap_content" />
     <Button
         android:layout_width="wrap_content"
         android:text="作业三"
-        android:id="@+id/homework_btn3"
+        android:onClick="hm03Activity"
         android:layout_height="wrap_content" />
-    <Button
-        android:layout_width="wrap_content"
-        android:text="作业四"
-        android:id="@+id/homework_btn4"
-        android:layout_height="wrap_content" />
-    <Button
-        android:layout_width="wrap_content"
-        android:text="作业五"
-        android:id="@+id/homework_btn5"
-        android:layout_height="wrap_content" />
+
 </LinearLayout>
 

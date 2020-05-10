@@ -17,5 +17,14 @@ public class homework extends AppCompatActivity {
         Intent intent = new Intent(this,hm01Activity.class);
         startActivity(intent);
     }
+    public void hm02Activity(View view) {
+        Intent intent = new Intent(this,hm02Activity.class);
+        startActivity(intent);
+    }
+    public void hm03Activity(View view) {
+        Intent intent = new Intent(this,hm03Activity.class);
+        startActivity(intent);
+    }
+
 }
 
